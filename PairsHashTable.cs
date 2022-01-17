@@ -4,7 +4,7 @@ using System.Collections;
 // We don’t provide test cases in this language yet, but have outlined the signature for you. Please write your code below, and don’t forget to test edge cases!
 class PairsHashTable
 {
-    /*
+    
     static Hashtable integers;
     static int output;
     
@@ -94,5 +94,5 @@ class PairsHashTable
             Console.WriteLine("Key:" + a.Key + " " + "Value: " + a.Value);
         }
     }
-    */
+    
 }
