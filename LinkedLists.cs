@@ -4,6 +4,7 @@ using System.Text;
 
 namespace ConsoleApp1
 {
+    /*
     class LinkedLists
     {
 
@@ -68,4 +69,5 @@ namespace ConsoleApp1
             }
         }
     }
+    */
 }
