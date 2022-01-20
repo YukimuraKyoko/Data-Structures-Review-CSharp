@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tina Nguyen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Tina Nguyen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Tina Nguyen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\DataStructures.csproj",
+      "projectName": "DataStructures",
+      "projectPath": "C:\\Users\\Tina Nguyen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\DataStructures.csproj",
       "packagesPath": "C:\\Users\\Tina Nguyen\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Tina Nguyen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

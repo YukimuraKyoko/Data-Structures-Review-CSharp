@@ -1,0 +1,13 @@
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataStructures.exe
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\Tina Nguyen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataStructures.genruntimeconfig.cache
