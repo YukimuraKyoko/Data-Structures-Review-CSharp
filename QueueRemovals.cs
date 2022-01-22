@@ -34,6 +34,7 @@ using System.Collections;
 
 class QueueRemovals
 {
+    /*
     public static Queue Q;
     public static int[] arr = { 1, 2, 2, 3, 4, 5 };
     public static int[] arr2;
@@ -93,5 +94,6 @@ class QueueRemovals
 
         return returnArray;
     }
+    */
 }
 
