@@ -5,7 +5,7 @@ using System.Text;
 
 class BalancedSplit
 {
-    /*
+    
     public static int[] arr1 = {1, 5, 7, 1};
     public static int[] arr2 = {12 , 7, 6, 7, 6};
     
@@ -30,17 +30,17 @@ class BalancedSplit
         for (int i = 1; i < arr.Length - 1; i++)
         {
             //If left side is lower than right side, as long as the indexes are not touching
-            if (lower <= higher && (i != j))
+            if (lower <= higher && (i != j) && arr[i] < arr[j])
             {
                 Console.WriteLine("Adding " + arr[i] + " To lower");
                 lower += arr[i];
             }
-            else if (lower >= higher && (i != j)) //if lower side is now higher, then decrement j by 1, add that to higher, as long indexes are not matching
+            else if (lower >= higher && (i != j) && arr[i] < arr[j]) //if lower side is now higher, then decrement j by 1, add that to higher, as long indexes are not matching
             {
                 higher += arr[--j];
                 Console.WriteLine("Adding " + arr[j] + " To higher");
             }
-            else if (i == j) //if indexes align
+            else if (i == j && arr[i] < arr[j]) //if indexes align
             {
                 Console.WriteLine("Both Equal");
                 break;
@@ -58,6 +58,6 @@ class BalancedSplit
             return false;
         }
     }
-*/
+
 }
 
